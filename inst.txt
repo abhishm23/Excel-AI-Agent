@@ -1,0 +1,3 @@
+for going into the venv: source .venv/Scripts/activate
+
+running the app: streamlit run main.py

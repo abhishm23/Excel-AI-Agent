@@ -1,0 +1,18 @@
+cat <<EOF > .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+~$*.xls*
+*.xlsx.lock
+.streamlit/
+.DS_Store
+Thumbs.db
+.env
+EOF
+models/
+data/
+outputs/
