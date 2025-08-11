@@ -7,6 +7,6 @@ A Streamlit-based offline AI assistant that:
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/abhishm23/radha_rani_agent.git
-cd radha_rani_agent
+git clone https://github.com/abhishm23/Excel-AI-Agent.git
+cd Excel-AI-Agent
 pip install -r requirements.txt
